@@ -2,7 +2,7 @@
 
 MSc Student in Artificial Intelligence at USI and Student Assistant at IDSIA.
 
-OCR - World Models - Computer Vision
+OCR 
 
 I work from first principles.
 
