@@ -1,16 +1,19 @@
-## Hi there 👋
+### Ferdinando Giordano
 
-<!--
-**frdxrfy/frdxrfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Student in Artificial Intelligence at USI and Student Assistant at IDSIA.
 
-Here are some ideas to get you started:
+OCR - World Models - Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work from first principles.
+
+---
+
+**Currently**: Inference engineering and setting fundamentals.
+
+**Previously**: Financial Analyst.
+
+---
+
+[linkedin](https://www.linkedin.com/in/ferdinando-giordano-4aa255240/) / [email](mailto:ferdinando.giordano@usi.ch)
+
+
