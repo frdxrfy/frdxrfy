@@ -2,13 +2,11 @@
 
 MSc Student in Artificial Intelligence at USI and Student Assistant at IDSIA.
 
-OCR 
-
-I work from first principles.
+Excĕllĕre, compound of ex- “out, from” and *cellĕre “to advance, to move.
 
 ---
 
-**Currently**: Inference engineering and setting fundamentals.
+**Currently**: Working on OCR for industrial manuals. 
 
 **Previously**: Financial Analyst.
 
